@@ -19,7 +19,7 @@ axial force p = 1 kg. The geometric parameters: Cross-section A1 =
 2 cm^2, A2 = 1 cm^2, l1 = l2 = 10 cm. Young's mmodulus E1 = E2 = E =
 2x10^6 kg/cm^2. 
 
-![](Figure1.png)
+![](Rod.png)
 
 
 ## Numerical Results
