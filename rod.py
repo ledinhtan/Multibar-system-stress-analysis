@@ -30,7 +30,7 @@ ne = 2
 coord = np.array([0, 10, 20])
 absembly = np.array([[0, 1], [1, 2]])
 para = np.array([[10, 2, 2*1e-6], [10, 1, 2e-6]])
-fcond = np.array([2, 1000],dtype=np.int)
+fcond = np.array([2, 1000],dtype=int)
 dcond = np.array([0, 0])
 
 #%% Processing
